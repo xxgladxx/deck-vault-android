@@ -9,7 +9,6 @@ from kivy.uix.image import AsyncImage
 from deck import Deck
 from kivy.uix.behaviors import ButtonBehavior
 from kivy.uix.image import Image
-import pyperclip
 from kivy.graphics import Color, Rectangle
 import webbrowser
 import json
